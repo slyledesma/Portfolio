@@ -7,9 +7,9 @@
 **Current Context:** The project faces delivery challenges such as missed sprint goals, unclear requirements, and complex cross-team dependencies.
 **Objective:** A major release is planned in 10 weeks.
 **Key Tasks:** 
-1. Provide a Diagnosis and define Priorities (Top 3 issues and validation).
-2. Create an Execution Plan for the next 4–6 weeks to stabilize delivery.
-3. Define a Release Strategy for the 10-week mark, covering scope, risks, and alignment.
+* Provide a Diagnosis and define Priorities (Top 3 issues and validation).
+* Create an Execution Plan for the next 4–6 weeks to stabilize delivery.
+* Define a Release Strategy for the 10-week mark, covering scope, risks, and alignment.
 
 ---
 
@@ -58,9 +58,9 @@ Ensuring on-time delivery through strict governance and proactive risk managemen
 **Scope Management:** Apply **MoSCoW prioritization** to protect "Must-have" core SaaS functionality.
 **Risk Management (ROAM):** Maintain a proactive Risk Register and classify every threat as **Resolved, Owned, Accepted, or Mitigated**.
 **Governance & Alignment:** 
-1. **Weekly Stakeholder Syncs:** Metrics-based reporting to ensure transparency.
-2. **Feature Freeze (Week 8):** Zero tolerance for late scope expansion.
-3. **Final 2 Weeks:** 100% focus on QA, critical fixes, and deployment readiness.
+* **Weekly Stakeholder Syncs:** Metrics-based reporting to ensure transparency.
+* **Feature Freeze (Week 8):** Zero tolerance for late scope expansion.
+* **Final 2 Weeks:** 100% focus on QA, critical fixes, and deployment readiness.
 
 ---
 
